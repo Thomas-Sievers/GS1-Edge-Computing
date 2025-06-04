@@ -28,7 +28,7 @@
   ### Utilizamos a plataforma: Wokwi.
   ![Image](https://github.com/user-attachments/assets/8005dfbd-3a96-4827-8e65-21660bdfb13c)
   <br>
-  [Link Do Projeto](https://wokwi.com/projects/428328074372035585)
+  [Link Do Projeto](https://wokwi.com/projects/432852504803039233)
 
 ## Vídeo do Projeto
   [Vídeo do Projeto - Wokwi](https://www.youtube.com/watch?v=mJ91bnfsLrs)
