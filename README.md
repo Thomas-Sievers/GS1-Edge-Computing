@@ -31,5 +31,5 @@
   [Link Do Projeto](https://wokwi.com/projects/428328074372035585)
 
 ## Vídeo do Projeto
-  [Vídeo do Projeto - Wokwi]([https://youtu.be/yR98a81piOo?si=rJSc927pR-9bt8YK](https://www.youtube.com/watch?v=mJ91bnfsLrs))
+  [Vídeo do Projeto - Wokwi](https://www.youtube.com/watch?v=mJ91bnfsLrs)
   
