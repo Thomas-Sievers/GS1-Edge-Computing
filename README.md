@@ -1,9 +1,9 @@
 # GS1-Edge-Computing
 
 ### Integrantes:
-1. João Pedro Silva de Menezes
-3. José Otávio Kaneto
-5. Thomas Soares Sievers
+1. Thomas Sievers - 563566
+2. José Otávio Kaneto - 563186
+3. João Pedro Silva de Menezes -  566070
 
 ## Superlotação em abrigos de enchentes - Problema ❗
   Em contextos de enchente, abrigos temporários são fundamentais para acolher pessoas em situação de risco. No entanto, a ausência de um controle eficiente de entrada pode gerar superlotação, dificultar a distribuição de recursos e comprometer a segurança dos abrigados. Monitorar quantas pessoas entram nesses locais permite uma gestão mais organizada, garante melhores condições de acolhimento e facilita a atuação das equipes de apoio. Um sistema automatizado de contagem contribui para respostas mais ágeis e eficazes em momentos críticos.
